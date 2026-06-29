@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════════════════
 //  Problem  : 0169. Majority Element
-//  URL      : https://leetcode.com/problems/majority-element/submissions/2050026061/
+//  URL      : https://leetcode.com/problems/majority-element/submissions/2050026320/
 //  Difficulty : Easy
 //  Language : chooseatype
 //  Solved   : June 29, 2026
