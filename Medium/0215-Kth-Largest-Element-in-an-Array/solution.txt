@@ -1,0 +1,15 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 0215. Kth Largest Element in an Array
+//  URL      : https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=problem-list-v2&envId=array
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : June 30, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+    public int findKthLargest(int[] nums, int k) {
+        Arrays.sort(nums);
+        int index=nums.length-k;
+        return nums[index];
+    }
+}
