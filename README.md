@@ -21,7 +21,7 @@
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2051062757/?envType=problem-list-v2&envId=array) | 🟡 Medium | `Java` | Jun 30, 2026 |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/submissions/2051062757/?envType=problem-list-v2&envId=array) | 🟡 Medium | `chooseatype` | Jun 30, 2026 |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `Java` | Jul 1, 2026 |
-| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 1, 2026 |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/?envType=problem-list-v2&envId=string) | 🟢 Easy | `chooseatype` | Jul 1, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `Java` | Jun 30, 2026 |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=array) | 🟢 Easy | `chooseatype` | Jun 30, 2026 |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/submissions/2049904112/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
@@ -29,4 +29,4 @@
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/2049904838/) | 🟢 Easy | `chooseatype` | Jun 29, 2026 |
 
 ---
-*Last updated: Wed, 01 Jul 2026 09:54:10 GMT*
+*Last updated: Wed, 01 Jul 2026 09:55:52 GMT*
