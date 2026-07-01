@@ -4,7 +4,7 @@
 //  Difficulty : Easy
 //  Language : Java
 //  Runtime  : 0 ms
-//  Memory   : 42.6 MB
+//  Memory   : 42.8 MB
 //  Solved   : July 1, 2026
 // ═══════════════════════════════════════════════════════
 
@@ -17,7 +17,7 @@ class Solution {
         }
         for(int i=0;i<s.length();i++){
            if (count[s.charAt(i) - 'a'] == 1) {
-                return i;
+                return i; 
             }
             
         }
